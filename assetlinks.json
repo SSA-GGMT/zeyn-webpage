@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.alessioc42.zeyn",
+      "sha256_cert_fingerprints":
+        [
+            "14:DA:74:86:53:B2:9C:7E:79:82:FF:45:7C:DD:59:ED:AD:88:4F:B2:CB:25:06:E1:04:87:0E:C8:F5:F2:72:38",
+            "AC:82:19:D4:44:DF:08:B5:DA:1A:71:DF:4D:20:B2:DC:B8:C8:2D:D1:4C:AA:56:8E:38:63:2B:F8:E3:70:98:43"
+        ]
+    }
+  }
+]
