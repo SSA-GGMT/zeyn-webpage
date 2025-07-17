@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "H9TZCZZ47G.dev.alessioc42.zeyn"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/login"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "H9TZCZZ47G.dev.alessioc42.zeyn"
+    ]
+  }
+}
